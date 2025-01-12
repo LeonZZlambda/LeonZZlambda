@@ -1,16 +1,20 @@
-<h2 align="left">Hello there! Welcome to my GitHub :)</h2>
+<br clear="both">
+
+<h1 align="center">λ Hello there! Welcome to my GitHub :)</h1>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonZZlambda&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="200" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=leonZZlambda&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="160" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=leonZZlambda&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="140" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=leonZZlambda&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="200" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=leonZZlambda&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="200" alt="streak graph"  />
 </div>
 
 ###
 
-<h2 align="center">My Tech Stacks</h2>
+<br clear="both">
+
+<h2 align="left">My Tech Stacks</h2>
 
 ###
 
@@ -52,7 +56,9 @@
 
 ###
 
-<h2 align="center">Enter in contact w/ me</h2>
+<br clear="both">
+
+<h2 align="left">Enter in contact w/ me</h2>
 
 ###
 
@@ -61,7 +67,7 @@
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="35" alt="youtube logo"  />
   </a>
   <a href="https://discord.com/channels/@me/706912562842697738" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Leonzitto&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="35" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord'&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="35" alt="discord logo"  />
   </a>
   <a href="leonzzlopes@proton.me" target="_blank">
     <img src="https://img.shields.io/static/v1?message=E-mail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
@@ -72,7 +78,9 @@
   <a href="https://codepen.io/LeonZZlambda" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=flat" height="35" alt="codepen logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="35" alt="whatsapp logo"  />
+  <a href="+55 11 98013-8865" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="35" alt="whatsapp logo"  />
+  </a>
   <a href="https://x.com/lynel_leonzz" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="35" alt="twitter logo"  />
   </a>
@@ -86,9 +94,17 @@
 
 ###
 
+<h1 align="left"></h1>
+
+###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/leonZZlambda/leonZZlambda/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h1 align="left"></h1>
 
 ###
 
@@ -102,6 +118,12 @@
 
 <div align="center">
   <img height="" src="https://media.giphy.com/media/l0IybTnydYJ5sjgNq/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/leonZZlambda/count.svg?"  />
 </div>
 
 ###
