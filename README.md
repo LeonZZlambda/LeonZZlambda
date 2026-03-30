@@ -110,8 +110,6 @@
 
 <br clear="both">
 
-<h2 align="center">It is delusium to think your actions have had any consequence</h2>
-
 ###
 
 <br clear="both">
@@ -123,7 +121,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/leonZZlambda/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/leonZZlambda/count.svg"  />
 </div>
 
 ###
