@@ -35,7 +35,7 @@ Designed a distributed system for remote game execution, using cloud infrastruct
 
 ## Stats
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=leonZZlambda&show_icons=true&theme=default&hide_border=true&rank_icon=github&include_all_commits=true" height="155"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leonZZlambda&layout=compact&theme=default&hide_border=true" height="155"/>
 </p>
