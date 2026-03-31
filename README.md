@@ -1,67 +1,41 @@
-<h1 align="center">Hi, I'm Leon 👋</h1>
+# Leon. Lopes λ
 
-<p align="center">
-  Computer Engineering student focused on <b>Cloud Systems</b>, <b>Distributed Systems</b>, and <b>Backend Development</b>.
-</p>
+Computer Engineering student focused on systems engineering, distributed systems, and backend development.
 
-<p align="center">
-  Building scalable systems and real-world applications using cloud infrastructure.
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardo-s-lopes)
+[![Email](https://img.shields.io/badge/Email-leonzzlopes@proton.me-grey?style=flat-square)](mailto:leonzzlopes@proton.me)
 
 ---
 
-## 🚀 Featured Project
+## Work
 
-### ☁️ Cloud Gaming Infrastructure (Azure)
-- Designed a cloud-based system for remote game execution  
-- Focused on scalability, performance, and resource allocation  
-- Built using backend services and cloud architecture principles  
+**Cloud Gaming Infrastructure**
 
----
+Designed a distributed system for remote game execution, using cloud infrastructure as a deployment layer.
 
-## 🧠 Tech Stack
-
-**Languages:** Java, Python, TypeScript, JavaScript  
-**Backend:** Node.js, Spring  
-**Cloud:** Microsoft Azure  
-**Databases:** SQL  
-**Other:** REST APIs, System Design, Git  
+- Compute scheduling and resource allocation under variable load
+- Backend service architecture and session management
+- Exploration of latency–performance tradeoffs in distributed environments
 
 ---
 
-## 📊 GitHub Stats
+## Interests
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=leonZZlambda&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leonZZlambda&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## 📌 Current Focus
-
-- Distributed systems  
-- Cloud architecture  
-- Scalable backend systems  
+- Systems engineering — performance, scalability, reliability
+- Distributed systems — fault tolerance, consistency models, consensus
+- Backend engineering — APIs, system design, data flow
 
 ---
 
-## 📫 Contact
+## Stack
 
-<p align="center">
-  <a href="mailto:leonzzlopes@proton.me">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/leonardo-s-lopes">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/leonZZlambda">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://codepen.io/LeonZZlambda">
-    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
-  </a>
-  <a href="https://x.com/lynel_leonzz">
-    <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
+`C` `C++` `Java` `Python` `Node.js` `Spring Boot` `SQL` `Azure` `Dart` `Flutter` `TypeScript` `Git`
+
+---
+
+## Stats
+
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=leonZZlambda&show_icons=true&theme=default&hide_border=true&rank_icon=github&include_all_commits=true" height="155"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leonZZlambda&layout=compact&theme=default&hide_border=true" height="155"/>
 </p>
