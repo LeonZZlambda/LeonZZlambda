@@ -15,15 +15,15 @@ Designed a distributed system for remote game execution, using cloud infrastruct
 
 - Compute scheduling and resource allocation under variable load
 - Backend service architecture and session management
-- Exploration of latency–performance tradeoffs in distributed environments
+- Exploration of latency-performance tradeoffs in distributed environments
 
 ---
 
 ## Interests
 
-- Systems engineering — performance, scalability, reliability
-- Distributed systems — fault tolerance, consistency models, consensus
-- Backend engineering — APIs, system design, data flow
+- Systems engineering - performance, scalability, reliability
+- Distributed systems - fault tolerance, consistency models, consensus
+- Backend engineering - APIs, system design, data flow
 
 ---
 
@@ -33,9 +33,14 @@ Designed a distributed system for remote game execution, using cloud infrastruct
 
 ---
 
-## Stats
+## Current Focus
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=leonZZlambda&show_icons=true&theme=default&hide_border=true&rank_icon=github&include_all_commits=true" height="155"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leonZZlambda&layout=compact&theme=default&hide_border=true" height="155"/>
-</p>
+- Building reliable backend systems
+- Learning more about distributed systems and cloud infrastructure
+- Improving system design, performance, and observability
+
+---
+
+## Profile Notes
+
+The GitHub stats widgets were removed because they were unreliable. This section is intentionally static so the profile stays fast and readable.
