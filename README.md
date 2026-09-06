@@ -17,7 +17,7 @@ Designed a distributed system for remote game execution, using cloud infrastruct
 - Backend service architecture and session management
 - Exploration of latency-performance tradeoffs in distributed environments
 
----
+
 
 ## Interests
 
@@ -25,22 +25,16 @@ Designed a distributed system for remote game execution, using cloud infrastruct
 - Distributed systems - fault tolerance, consistency models, consensus
 - Backend engineering - APIs, system design, data flow
 
----
+
 
 ## Stack
 
 `C` `C++` `Java` `Python` `Node.js` `Spring Boot` `SQL` `Azure` `Dart` `Flutter` `TypeScript` `Git`
 
----
+
 
 ## Current Focus
 
 - Building reliable backend systems
 - Learning more about distributed systems and cloud infrastructure
 - Improving system design, performance, and observability
-
----
-
-## Profile Notes
-
-The GitHub stats widgets were removed because they were unreliable. This section is intentionally static so the profile stays fast and readable.
